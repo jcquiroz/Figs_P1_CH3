@@ -1,1 +1,3 @@
-# Figs_P1_CH3
+# Figures
+
+Some figures to support the outcomes from Chapter III
